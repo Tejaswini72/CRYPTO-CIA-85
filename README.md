@@ -1,0 +1,1 @@
+This assignment includes 13 C++ programs implementing various classical encryption and decryption algorithms. Each code is written with clear logic and handles user input for both encryption and decryption processes.
